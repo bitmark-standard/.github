@@ -5,7 +5,7 @@
 - 👩‍💻 Useful resources - technical documentation for bitmark can be found [here](https://docs.bitmark.cloud/) and is also accessible from [our homepage](https://bitmark-association.org/).
 - 🍿 Fun facts - the bitmark association is a completely distributed team based in Switzerland, Austria and Norway!
 
-## Companies and Projects built with bitmark
+## Companies and Projects using bitmark
 
 - [Open Task Pool](https://github.com/taskbase/open-taskpool) 
   - The Open Taskpool is an open source community curated set of language learning tasks, free to use under the Creative Commons License 
